@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "zzzzzzzzzzzzz",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2022-11-13T00:10:42.806Z",
+      "id": 6
+    },
+    {
+      "message": "arwqrewr",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2022-11-13T01:30:11.643Z",
+      "id": 7
+    },
+    {
+      "message": "mmxmmxmx",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2022-11-13T01:30:24.323Z",
+      "id": 8
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
